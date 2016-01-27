@@ -23,7 +23,7 @@ Break your weekend fasts in style (with some hair of the dog to take away the fo
 * Gulps the Kool-Aid
 
 ### The Artsy Farts
-[Rober "House Spider" Sanders](http://www.robertleesanders.com)
+[Robert "House Spider" Sanders](http://www.robertleesanders.com)
 
 * Agent [U]X
 * Picasso Moderno
