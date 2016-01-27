@@ -4,7 +4,7 @@ Break your weekend fasts in style (with some hair of the dog to take away the fo
 
 ## Team:
 ### The Code Monkeys
-[Brain "2.0" Hague](https://www.github.com/bhague1281)
+[Brian "2.0" Hague](https://www.github.com/bhague1281)
 
 * Jedi Master
 * Dr. React-O
