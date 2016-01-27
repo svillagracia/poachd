@@ -36,7 +36,7 @@ Break your weekend fasts in style (with some hair of the dog to take away the fo
 #### Back:
 * Node.js
 * ExpressJS
-* Postgres
+* Postgres/Mongo - (TBD)
 * Sequelize
 * OAuth
 * GraphQL(?) - (TBD)
