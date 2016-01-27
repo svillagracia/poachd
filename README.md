@@ -10,7 +10,7 @@ Break your weekend fasts in style (with some hair of the dog to take away the fo
 * Dr. React-O
 * Webpack Jack
 
-[Sean "Panda" Villagacia](https://www.github.com/svillagracia)
+[Sean "Panda" Villagracia](https://www.github.com/svillagracia)
 
 * Attack from the Back
 * Master of the Git
