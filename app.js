@@ -38,6 +38,8 @@ app.use(function(req, res, next) {
   next(err);
 });
 
+//TODO: Establish 2 routes. One for Angular SPA for Base Users. One for React SPA Admin Users.
+
 // error handlers
 
 // development error handler
